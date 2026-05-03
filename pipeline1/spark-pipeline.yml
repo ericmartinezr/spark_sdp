@@ -1,0 +1,6 @@
+
+name: pipeline1
+storage: file:///home/eric/spark_sdp/pipeline1/pipeline-storage
+libraries:
+  - glob:
+      include: transformations/**
